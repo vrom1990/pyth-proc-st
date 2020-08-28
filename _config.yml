@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+title: Введение в Python с Processing
+github:
+  is_project_page: false
